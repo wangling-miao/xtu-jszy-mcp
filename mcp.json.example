@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xtu-jszy": {
+      "type": "http",
+      "url": "https://xtu-jszy-mcp.<你的账号>.workers.dev/0a394a6d-e980-410a-b3fd-4b206a76d146/mcp"
+    }
+  }
+}
