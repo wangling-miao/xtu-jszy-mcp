@@ -1,0 +1,6 @@
+name = "xtu-jszy-mcp"
+main = "src/index.js"
+compatibility_date = "2025-10-01"
+
+[vars]
+ACCESS_UUID = "0a394a6d-e980-410a-b3fd-4b206a76d146"
